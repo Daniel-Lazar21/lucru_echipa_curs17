@@ -8,3 +8,11 @@ def modificare_judet(cale_fisier):
     return df
 
 modificare_judet(CALE_FISIER)
+
+def modificare_benzina(cale_fisier):
+    df = pd.read_csv(cale_fisier)
+    df['VALUE_NAME'] = df["VALUE_NAME"].replace(['BENZINA+E85', 'BENZINA+GNC','BENZINA+GPL','BENZINA+ULEI'], 'BENZINA')
+    df.to_csv(cale_fisier, index = False)
+    return df
+
+modificare_benzina(CALE_FISIER)
