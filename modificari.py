@@ -17,3 +17,18 @@ def modificare_judet(cale_fisier):
     df.to_csv(cale_fisier, index = False)
     return df
 
+#adaugati o coloana care sa contina valoarea "popular" sau "nepopular" in functie de nr de vehicule din acea categorie (un vehicul e popular daca exista mai mult de 100)
+
+def determina_popularitate(valoare):
+    if valoare >= 100:
+        return "POPULAR"
+    else:
+        return "NEPOPULAR"
+
+
+def popularitate_masina(cale_fisier):
+    df = pd.read_csv(cale_fisier)
+    df["POPULARITATE"] = df["TOTAL_VEHICULE"].apply(determina_popularitate)
+    df.to_csv(cale_fisier, index=False)
+    return df
+
