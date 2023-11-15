@@ -1,0 +1,1957 @@
+Vehicul de tip AUTOBUZ din judetul ALBA marca IVECO : 34 
+Vehicul de tip AUTOBUZ din judetul ALBA marca MERCEDES-BENZ : 50 
+Vehicul de tip AUTOBUZ din judetul ALBA marca VOLKSWAGEN : 3 
+Vehicul de tip AUTOBUZ din judetul ALBA marca A8 : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca BMC : 17 
+Vehicul de tip AUTOBUZ din judetul ALBA marca BOVA : 9 
+Vehicul de tip AUTOBUZ din judetul ALBA marca DAC : 5 
+Vehicul de tip AUTOBUZ din judetul ALBA marca DENNIS : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca EVOBUS : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca FIAT : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca GULERYUZ : 15 
+Vehicul de tip AUTOBUZ din judetul ALBA marca HEULIEZ : 2 
+Vehicul de tip AUTOBUZ din judetul ALBA marca IFA : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca IKARUS : 37 
+Vehicul de tip AUTOBUZ din judetul ALBA marca INDBUS : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca INDCAR : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca IRISBUS : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca IRIZAR : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca ISUZU : 3 
+Vehicul de tip AUTOBUZ din judetul ALBA marca KASSBOHRER : 2 
+Vehicul de tip AUTOBUZ din judetul ALBA marca KASSBOHRER-SETRA : 6 
+Vehicul de tip AUTOBUZ din judetul ALBA marca MAN : 21 
+Vehicul de tip AUTOBUZ din judetul ALBA marca MENARINI : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca MERCEDES BENZ : 16 
+Vehicul de tip AUTOBUZ din judetul ALBA marca NAW : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca NEOPLAN : 10 
+Vehicul de tip AUTOBUZ din judetul ALBA marca OAF : 2 
+Vehicul de tip AUTOBUZ din judetul ALBA marca OTOKAR : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca RENAULT : 14 
+Vehicul de tip AUTOBUZ din judetul ALBA marca RENAULT VI : 15 
+Vehicul de tip AUTOBUZ din judetul ALBA marca ROCAR : 22 
+Vehicul de tip AUTOBUZ din judetul ALBA marca ROMAN : 13 
+Vehicul de tip AUTOBUZ din judetul ALBA marca SCANIA : 3 
+Vehicul de tip AUTOBUZ din judetul ALBA marca SETRA : 40 
+Vehicul de tip AUTOBUZ din judetul ALBA marca STEYR : 2 
+Vehicul de tip AUTOBUZ din judetul ALBA marca TEMSA : 3 
+Vehicul de tip AUTOBUZ din judetul ALBA marca TEZELLER : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca TOYOTA : 1 
+Vehicul de tip AUTOBUZ din judetul ALBA marca TURKKAR : 15 
+Vehicul de tip AUTOBUZ din judetul ALBA marca VOLVO : 16 
+Vehicul de tip AUTOBUZ din judetul ALBA marca YUTONG : 2 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca IVECO : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca VOLKSWAGEN : 36 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca FIAT : 5 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca MERCEDES BENZ : 23 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca RENAULT : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca ROCAR : 7 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca ROMAN : 18 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca TOYOTA : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca ARO : 13 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca AUTOBUZUL : 15 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca BARKAS : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca CITROEN : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca DACIA : 792 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca FORD : 16 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca LAND ROVER : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca MAZDA : 6 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca MITSUBISHI : 16 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca NISSAN : 6 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca PEUGEOT : 6 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca AB : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca SR DAC : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ALBA marca AUTOMECANICA : 6 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ALBA marca FIAT : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ALBA marca CATERPILLAR : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ALBA marca KOMATSU : 4 
+Vehicul de tip AUTOREMORCHER din judetul ALBA marca DAC : 1 
+Vehicul de tip AUTOREMORCHER din judetul ALBA marca ROMAN : 5 
+Vehicul de tip AUTOREMORCHER din judetul ALBA marca AB : 1 
+Vehicul de tip AUTOREMORCHER din judetul ALBA marca TATRA : 3 
+Vehicul de tip AUTORULOTA din judetul ALBA marca VOLKSWAGEN : 2 
+Vehicul de tip AUTORULOTA din judetul ALBA marca FIAT : 1 
+Vehicul de tip AUTORULOTA din judetul ALBA marca MERCEDES BENZ : 1 
+Vehicul de tip AUTORULOTA din judetul ALBA marca PEUGEOT : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca IVECO : 4 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca VOLKSWAGEN : 7 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca DAC : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca FIAT : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca IFA : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca MERCEDES BENZ : 14 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca RENAULT : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca RENAULT VI : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca ROMAN : 15 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca STEYR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca VOLVO : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca ARO : 3 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca DACIA : 10 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca FORD : 3 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca NISSAN : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca AB : 5 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca AUTOMECANICA : 11 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca CATERPILLAR : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca TATRA : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca AUDI : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca MOWAG : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca BERLIET : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca LUGOJ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca SR TIRGOVISTE : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca SRD : 2 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca ADK : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca ASTRA : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca JELEZ : 3 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca KRAZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca UBEMAR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca UM TIMISOARA : 7 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca UMT : 5 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca CRAIOVA : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca IFRON : 25 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca KMZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca LIAZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca TAF : 13 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca UTEPS : 5 
+Vehicul de tip AUTOSPECIALA din judetul ALBA marca ZIL : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca IVECO : 20 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca VOLKSWAGEN : 6 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca DAC : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca FIAT : 8 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca IFA : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca MAN : 18 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca MERCEDES BENZ : 41 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca RENAULT : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca RENAULT VI : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca ROCAR : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca ROMAN : 234 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca SCANIA : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca TOYOTA : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca VOLVO : 18 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca ARO : 21 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca AUTOBUZUL : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca CITROEN : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca DACIA : 96 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca FORD : 7 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca MITSUBISHI : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca PEUGEOT : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca AB : 25 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca SR DAC : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca AUTOMECANICA : 102 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca TATRA : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca SRD : 9 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca ASTRA : 14 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca KRAZ : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca CIG : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca GRIVBUS : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca GAZ : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca DAF : 8 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca IVECO MAGIRUS : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca MULTICAR : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca ROBUR : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca SR : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca ARAD : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca MAGIRUS : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca MARSA : 251 
+Vehicul de tip AUTOSPECIALIZATA din judetul ALBA marca METALCAR : 1 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca IVECO : 38 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca FIAT : 1 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca IFA : 1 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca MAN : 51 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca MERCEDES BENZ : 56 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca RENAULT : 3 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca RENAULT VI : 10 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca ROMAN : 32 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca SCANIA : 17 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca STEYR : 2 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca VOLVO : 82 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca AB : 4 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca LIAZ : 1 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca DAF : 42 
+Vehicul de tip AUTOTRACTOR din judetul ALBA marca IVECO MAGIRUS : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca IVECO : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MERCEDES-BENZ : 1856 
+Vehicul de tip AUTOTURISM din judetul ALBA marca VOLKSWAGEN : 25775 
+Vehicul de tip AUTOTURISM din judetul ALBA marca FIAT : 2159 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ISUZU : 16 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MERCEDES BENZ : 1486 
+Vehicul de tip AUTOTURISM din judetul ALBA marca RENAULT : 5333 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ROCAR : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TOYOTA : 852 
+Vehicul de tip AUTOTURISM din judetul ALBA marca VOLVO : 553 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ARO : 447 
+Vehicul de tip AUTOTURISM din judetul ALBA marca CITROEN : 1089 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DACIA : 18322 
+Vehicul de tip AUTOTURISM din judetul ALBA marca FORD : 8918 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LAND ROVER : 643 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MAZDA : 624 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MITSUBISHI : 711 
+Vehicul de tip AUTOTURISM din judetul ALBA marca NISSAN : 956 
+Vehicul de tip AUTOTURISM din judetul ALBA marca PEUGEOT : 2951 
+Vehicul de tip AUTOTURISM din judetul ALBA marca AUDI : 6512 
+Vehicul de tip AUTOTURISM din judetul ALBA marca GAZ : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DAF : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ACURA : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ALFA ROMEO : 333 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ASIA : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca AUSTIN : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca AUSTIN ROVER : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca BENTLEY : 5 
+Vehicul de tip AUTOTURISM din judetul ALBA marca BMW : 4855 
+Vehicul de tip AUTOTURISM din judetul ALBA marca BUICK : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca CADILLAC : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca CAMI : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca CHEVROLET : 381 
+Vehicul de tip AUTOTURISM din judetul ALBA marca CHRYSLER : 75 
+Vehicul de tip AUTOTURISM din judetul ALBA marca COMARTH : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DACIA - OKURA : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DAEWOO : 1753 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DAIHATSU : 349 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DAIMLER : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DATSUN : 6 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DODGE : 30 
+Vehicul de tip AUTOTURISM din judetul ALBA marca DR : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca FERRARI : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca FORD-CNG-TECHNIK : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca GEELY : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca GEO : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca GMC : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca HONDA : 271 
+Vehicul de tip AUTOTURISM din judetul ALBA marca HYUNDAI : 1636 
+Vehicul de tip AUTOTURISM din judetul ALBA marca INFINITI : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca JAGUAR : 50 
+Vehicul de tip AUTOTURISM din judetul ALBA marca JEEP : 183 
+Vehicul de tip AUTOTURISM din judetul ALBA marca KIA : 308 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LADA : 84 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LADA-VAZ : 26 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LANCIA : 111 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LEXUS : 10 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LINCOLN : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca LUAZ : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MARUTI : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MASERATI : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MAZDA-FORD : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MCC : 32 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MERCEDES -BENZ : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MERCEDES- BENZ : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MG : 7 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MINI : 108 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MITSUBISI : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MORRIS : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca MOSKVICH : 26 
+Vehicul de tip AUTOTURISM din judetul ALBA marca OLTCIT : 305 
+Vehicul de tip AUTOTURISM din judetul ALBA marca OPEL : 13197 
+Vehicul de tip AUTOTURISM din judetul ALBA marca PACKARD : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca POLSKI FIAT : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca PONTIAC : 4 
+Vehicul de tip AUTOTURISM din judetul ALBA marca PORSCHE : 54 
+Vehicul de tip AUTOTURISM din judetul ALBA marca PROTON : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca QUATTRO : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ROLLS-ROYCE : 6 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ROVER : 177 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SAAB : 68 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SANTANA : 48 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SEAT : 1646 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SHUANG HUAN : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SKODA : 4898 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SMART : 252 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SSANGYONG : 46 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SSANGYONG/DAEWOO : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca STEYR-PUCH : 3 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SUBARU : 87 
+Vehicul de tip AUTOTURISM din judetul ALBA marca SUZUKI : 2063 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TALBOT : 12 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TALBOT-SIMCA : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TATA : 5 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TESLA MOTORS : 2 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TRABANT : 144 
+Vehicul de tip AUTOTURISM din judetul ALBA marca TRIUMPH : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca UAZ : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca VANDEN PLAS : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca VAUXHALL : 43 
+Vehicul de tip AUTOTURISM din judetul ALBA marca VOLGA : 5 
+Vehicul de tip AUTOTURISM din judetul ALBA marca WARTBURG : 33 
+Vehicul de tip AUTOTURISM din judetul ALBA marca ZAZ : 1 
+Vehicul de tip AUTOTURISM din judetul ALBA marca GWM : 5 
+Vehicul de tip AUTOTURISM din judetul ALBA marca HUMMER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IVECO : 1164 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MERCEDES-BENZ : 2089 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca VOLKSWAGEN : 1769 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca BMC : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DAC : 8 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca FIAT : 864 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IFA : 65 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ISUZU : 19 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MAN : 842 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MERCEDES BENZ : 1052 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca OAF : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca RENAULT : 778 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca RENAULT VI : 91 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ROCAR : 9 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ROMAN : 324 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SCANIA : 328 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca STEYR : 7 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca TOYOTA : 142 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca VOLVO : 461 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ARO : 336 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AUTOBUZUL : 69 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca BARKAS : 4 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca CITROEN : 355 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DACIA : 2321 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca FORD : 1472 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca LAND ROVER : 85 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MAZDA : 93 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MITSUBISHI : 598 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca NISSAN : 442 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca PEUGEOT : 481 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AB : 40 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SR DAC : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AUTOMECANICA : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca TATRA : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AUDI : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SRD : 7 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ASTRA : 17 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ZIL : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca GAZ : 6 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DAF : 572 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IVECO MAGIRUS : 64 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MULTICAR : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ROBUR : 5 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SR : 9 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MAGIRUS : 5 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MARSA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca METALCAR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AUSTIN : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca BMW : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca CHEVROLET : 4 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca CHRYSLER : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DAEWOO : 17 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DAIHATSU : 10 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DODGE : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca HONDA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca HYUNDAI : 50 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca JEEP : 16 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca KIA : 28 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca LADA : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MERCEDES- BENZ : 7 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca OLTCIT : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca OPEL : 287 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ROVER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SANTANA : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SEAT : 56 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SKODA : 25 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SSANGYONG : 11 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SUZUKI : 94 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca TATA : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca VAUXHALL : 5 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca GWM : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AM : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DAIMLER BENZ : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca DONGFENG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca EFFEDI : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca FREIGHT ROVER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca FS LUBLIN : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca HANOMAG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IJ : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IVECO-FIAT : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca LDV : 10 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MERCEDES - BENZ : 10 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MITSUBISHI FUSO : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca OM : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca PIAGGIO : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca RENAULT/MOTOWEKTOR : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca VOLSKWAGEN : 6 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca STEYR PUCH : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca AVIA : 3 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IVECO-FORD : 4 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca M A N : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MICTON : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca VOLKSWAGEN-MAN : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ERF : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca FODEN : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca GINAF : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca IVECO-MAGIRUS : 21 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MAN. : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca MERCEDES-BENZ/WECON : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca PEGASO : 2 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca RABA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca ROMA N : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca SEDDON ATKINSON : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca TERBERG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ALBA marca WECON : 8 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca IVECO : 20 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MERCEDES-BENZ : 60 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca VOLKSWAGEN : 46 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca BMC : 10 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca DAC : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca DENNIS : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca FIAT : 27 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca IFA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MAN : 29 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MERCEDES BENZ : 29 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca RENAULT : 13 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca RENAULT VI : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca ROMAN : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca SCANIA : 9 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca STEYR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca VOLVO : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca CITROEN : 6 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca DACIA : 33 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca FORD : 14 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MITSUBISHI : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca NISSAN : 15 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca PEUGEOT : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca AUDI : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca ASTRA : 6 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca DAF : 6 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca IVECO MAGIRUS : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MULTICAR : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca SR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MAGIRUS : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca BMW : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca KIA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca OPEL : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MERCEDES - BENZ : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca AVIA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca VOLKSWAGEN-MAN : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca IVECO-MAGIRUS : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca DACIA-OKURA : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca ELNAGH : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca FIAT/ADRIA MOBIL : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca FIAT/RIMOR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca FORD/DETHLEFFS : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MOBILVETTA DESIGN : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca UNIMOG : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca GROVE : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca LIEBHERR : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ALBA marca MARCHETTI : 1 
+Vehicul de tip MICROBUZ din judetul ALBA marca IVECO : 33 
+Vehicul de tip MICROBUZ din judetul ALBA marca MERCEDES-BENZ : 56 
+Vehicul de tip MICROBUZ din judetul ALBA marca VOLKSWAGEN : 43 
+Vehicul de tip MICROBUZ din judetul ALBA marca FIAT : 68 
+Vehicul de tip MICROBUZ din judetul ALBA marca MERCEDES BENZ : 55 
+Vehicul de tip MICROBUZ din judetul ALBA marca RENAULT : 7 
+Vehicul de tip MICROBUZ din judetul ALBA marca ROCAR : 9 
+Vehicul de tip MICROBUZ din judetul ALBA marca AUTOBUZUL : 13 
+Vehicul de tip MICROBUZ din judetul ALBA marca FORD : 43 
+Vehicul de tip MICROBUZ din judetul ALBA marca PEUGEOT : 1 
+Vehicul de tip MICROBUZ din judetul ALBA marca OPEL : 15 
+Vehicul de tip MICROBUZ din judetul ALBA marca CIBRO : 1 
+Vehicul de tip MICROBUZ din judetul ALBA marca FORD-CIBRO : 4 
+Vehicul de tip MICROBUZ din judetul ALBA marca OPEL - CIBRO : 20 
+Vehicul de tip MOPED din judetul ALBA marca PEUGEOT : 7 
+Vehicul de tip MOPED din judetul ALBA marca APRILIA : 2 
+Vehicul de tip MOPED din judetul ALBA marca CPI : 2 
+Vehicul de tip MOPED din judetul ALBA marca DERBI : 1 
+Vehicul de tip MOPED din judetul ALBA marca GILERA : 3 
+Vehicul de tip MOPED din judetul ALBA marca MALAGUTI : 1 
+Vehicul de tip MOPED din judetul ALBA marca QINGQI : 4 
+Vehicul de tip MOTOCAR din judetul ALBA marca MURAVEI : 7 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca BMW : 7 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca HONDA : 41 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca SUZUKI : 30 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca IJ : 35 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca PIAGGIO : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca APRILIA : 20 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca GILERA : 4 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca QINGQI : 9 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca CAGIVA : 5 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca CZ : 8 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca DAELIM : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca DNEPR : 9 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca DUCATI : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca JAWA : 18 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca JINLUN : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca K : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca KAWASAKI : 15 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca KTM : 11 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca KYMKO : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca MINSK : 36 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca MMBZ : 3 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca MMVZ : 2 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca MOTO-GUZZI : 2 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca MZ : 27 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca MZ/ETZ : 23 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca SIMSON : 11 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca TMZ : 4 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca VOSHOD : 1 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca YAMAHA : 33 
+Vehicul de tip MOTOCICLETA din judetul ALBA marca IMZ : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PEUGEOT : 19 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BMW : 50 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HONDA : 361 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SUZUKI : 241 
+Vehicul de tip MOTOCICLU din judetul ALBA marca TRIUMPH : 15 
+Vehicul de tip MOTOCICLU din judetul ALBA marca IJ : 4 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PIAGGIO : 63 
+Vehicul de tip MOTOCICLU din judetul ALBA marca APRILIA : 81 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CPI : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca DERBI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca GILERA : 6 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MALAGUTI : 27 
+Vehicul de tip MOTOCICLU din judetul ALBA marca QINGQI : 9 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CAGIVA : 8 
+Vehicul de tip MOTOCICLU din judetul ALBA marca DAELIM : 8 
+Vehicul de tip MOTOCICLU din judetul ALBA marca DNEPR : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca DUCATI : 14 
+Vehicul de tip MOTOCICLU din judetul ALBA marca JAWA : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca JINLUN : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KAWASAKI : 154 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KTM : 66 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KYMKO : 25 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MZ : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SIMSON : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca YAMAHA : 320 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BAOTIAN : 5 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BETA : 4 
+Vehicul de tip MOTOCICLU din judetul ALBA marca FIRST BIKE : 12 
+Vehicul de tip MOTOCICLU din judetul ALBA marca GENERIC : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KANGDA : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca LIFAN : 4 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MBK : 8 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PEGASSO : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca AGUSTA : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca ASIAWING : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BELGARDA : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BENELLI : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BRANSON : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CFMOTO : 121 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CN MOTO : 19 
+Vehicul de tip MOTOCICLU din judetul ALBA marca GARRELLI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HARLEY DAVIDSON : 11 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HARTFORD : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HSUN : 12 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HUSABERG : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HUSQVARNA : 14 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HYOSUNG : 7 
+Vehicul de tip MOTOCICLU din judetul ALBA marca JONWAY : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KEEWAY : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KYMCO : 12 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MANET : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MOBRA : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MOTO GUZZI : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MOTO MORINI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MOTORBIKE : 12 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MV AGUSTA : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MV AUGUSTA : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PIONEER : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PL MOTO : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca REGAL-RAPTOR : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SACHS : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SAN YANG : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SKY TEAM : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca STANDARD MOTOR : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SUKIDA : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SYM : 4 
+Vehicul de tip MOTOCICLU din judetul ALBA marca TAIWAN GOLDEN BEE : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca VICTORY : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca YIYING : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca ZONGSHEN : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BOMBARDIER : 13 
+Vehicul de tip MOTOCICLU din judetul ALBA marca D MOTO : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca AIXAM : 5 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CASALINI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CHATENET : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca GRECAV : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca TASSO : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca ACCESS : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca AEON : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca AIE : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca ARCTIC CAT : 8 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BASHAN : 8 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BOMBARDIER RECREATIONAL PRODUCTS : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca BORILE : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca CHUNFENG : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca DINLI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca DRESEL : 9 
+Vehicul de tip MOTOCICLU din judetul ALBA marca EAGLE : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca GOES : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca GSMOON : 8 
+Vehicul de tip MOTOCICLU din judetul ALBA marca HENSIM : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca I MOTO : 5 
+Vehicul de tip MOTOCICLU din judetul ALBA marca IPS : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca JIANGSU LINHAI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca JIANSHE : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca JINLING : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca KINROAD : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca LINHAI : 152 
+Vehicul de tip MOTOCICLU din judetul ALBA marca LONCIN : 11 
+Vehicul de tip MOTOCICLU din judetul ALBA marca MICROCAR : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca NFM : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PAOLETTI : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca PGO : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca POLARIS : 7 
+Vehicul de tip MOTOCICLU din judetul ALBA marca REINMECH : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca REVA : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca ROAR : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SHENKE : 4 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SHINERAY : 1 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SKYGO : 5 
+Vehicul de tip MOTOCICLU din judetul ALBA marca SMC : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca STANDARD MOTOR CORPORATION : 2 
+Vehicul de tip MOTOCICLU din judetul ALBA marca TGB : 3 
+Vehicul de tip MOTOCICLU din judetul ALBA marca WONJAN.CHAOYUE : 2 
+Vehicul de tip MOTOCVADRICICLU din judetul ALBA marca LIFAN : 2 
+Vehicul de tip MOTOCVADRICICLU din judetul ALBA marca LINHAI : 4 
+Vehicul de tip MOTOCVADRICICLU din judetul ALBA marca ETON : 1 
+Vehicul de tip MOTORETA din judetul ALBA marca HONDA : 1 
+Vehicul de tip MOTORETA din judetul ALBA marca SUZUKI : 2 
+Vehicul de tip MOTORETA din judetul ALBA marca PIAGGIO : 3 
+Vehicul de tip MOTORETA din judetul ALBA marca APRILIA : 3 
+Vehicul de tip MOTORETA din judetul ALBA marca GILERA : 1 
+Vehicul de tip MOTORETA din judetul ALBA marca MALAGUTI : 2 
+Vehicul de tip MOTORETA din judetul ALBA marca YAMAHA : 3 
+Vehicul de tip MOTORETA din judetul ALBA marca MOBRA : 59 
+Vehicul de tip MOTORETA din judetul ALBA marca ITALJET : 1 
+Vehicul de tip MOTORETA din judetul ALBA marca CARPATI : 2 
+Vehicul de tip MOTORETA din judetul ALBA marca ZUNDAPP : 1 
+Vehicul de tip MOTOTRICICLU din judetul ALBA marca BOOM : 1 
+Vehicul de tip REMORCA din judetul ALBA marca SCHWARZMULLER : 1 
+Vehicul de tip SCUTER din judetul ALBA marca PEUGEOT : 10 
+Vehicul de tip SCUTER din judetul ALBA marca HONDA : 1 
+Vehicul de tip SCUTER din judetul ALBA marca SUZUKI : 1 
+Vehicul de tip SCUTER din judetul ALBA marca PIAGGIO : 7 
+Vehicul de tip SCUTER din judetul ALBA marca APRILIA : 4 
+Vehicul de tip SCUTER din judetul ALBA marca GILERA : 1 
+Vehicul de tip SCUTER din judetul ALBA marca MALAGUTI : 4 
+Vehicul de tip SCUTER din judetul ALBA marca KYMKO : 1 
+Vehicul de tip SCUTER din judetul ALBA marca YAMAHA : 1 
+Vehicul de tip SCUTER din judetul ALBA marca BENELLI : 1 
+Vehicul de tip SCUTER din judetul ALBA marca SYM : 1 
+Vehicul de tip SCUTER din judetul ALBA marca PUCH : 1 
+Vehicul de tip SCUTER din judetul ALBA marca LAMBRETTA : 1 
+Vehicul de tip SCUTER din judetul ALBA marca M.B.K. : 2 
+Vehicul de tip SCUTER din judetul ALBA marca SANYANG : 1 
+Vehicul de tip SEMIREMORCA din judetul ALBA marca SCHMITZ CARGOBULL : 12 
+Vehicul de tip TRACTOR din judetul ALBA marca FIAT : 5 
+Vehicul de tip TRACTOR din judetul ALBA marca RENAULT : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca FORD : 3 
+Vehicul de tip TRACTOR din judetul ALBA marca OM : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca BELARUS : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca CASE : 9 
+Vehicul de tip TRACTOR din judetul ALBA marca CLAAS : 2 
+Vehicul de tip TRACTOR din judetul ALBA marca CNH INTERNATIONAL : 5 
+Vehicul de tip TRACTOR din judetul ALBA marca DEUTZ : 3 
+Vehicul de tip TRACTOR din judetul ALBA marca FARMTRAC : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca FENDT : 18 
+Vehicul de tip TRACTOR din judetul ALBA marca FOTON : 6 
+Vehicul de tip TRACTOR din judetul ALBA marca HOYO : 2 
+Vehicul de tip TRACTOR din judetul ALBA marca JOHN DEERE : 57 
+Vehicul de tip TRACTOR din judetul ALBA marca LAMBORGHINI : 3 
+Vehicul de tip TRACTOR din judetul ALBA marca LANDINI : 5 
+Vehicul de tip TRACTOR din judetul ALBA marca MASSEY FERGUSON : 5 
+Vehicul de tip TRACTOR din judetul ALBA marca MC CORMICK : 2 
+Vehicul de tip TRACTOR din judetul ALBA marca MTZ : 4 
+Vehicul de tip TRACTOR din judetul ALBA marca NEW HOLLAND : 13 
+Vehicul de tip TRACTOR din judetul ALBA marca SYSTRA : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca UTB : 31 
+Vehicul de tip TRACTOR din judetul ALBA marca VALTRA : 5 
+Vehicul de tip TRACTOR din judetul ALBA marca YTO : 10 
+Vehicul de tip TRACTOR din judetul ALBA marca ZETOR : 2 
+Vehicul de tip TRACTOR din judetul ALBA marca DONG FENG : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca EUROTRAC : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca EICHER : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca GULDNER : 4 
+Vehicul de tip TRACTOR din judetul ALBA marca GUTBROD : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca INT.HARVESTER : 9 
+Vehicul de tip TRACTOR din judetul ALBA marca KLOECKNER-H-DEUTZ : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca MASSEY-FERGUSON : 5 
+Vehicul de tip TRACTOR din judetul ALBA marca SAME : 2 
+Vehicul de tip TRACTOR din judetul ALBA marca SCHLUTER : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca U.T.B. : 61 
+Vehicul de tip TRACTOR din judetul ALBA marca AGCO : 1 
+Vehicul de tip TRACTOR din judetul ALBA marca JCB : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca RENAULT : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca STEYR : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca FORD : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca TAF : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca HANOMAG : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca FENDT : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca JOHN DEERE : 4 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca MC CORMICK : 4 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca NEW HOLLAND : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca YTO : 14 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca ZETOR : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca KLOECKNER-H-DEUTZ : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca MASSEY-FERGUSON : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca SAME : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca U.T.B. : 696 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca INTERN.-HARVESTER : 3 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca IRUM-REGHIN : 13 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca MIJA : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca SHIJIAZHAUNG : 12 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca SHIJIAZHUANG : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ALBA marca UNIVERSAL : 179 
+Vehicul de tip AUTOBUZ din judetul ARAD marca IVECO : 34 
+Vehicul de tip AUTOBUZ din judetul ARAD marca MERCEDES-BENZ : 83 
+Vehicul de tip AUTOBUZ din judetul ARAD marca A8 : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca BMC : 11 
+Vehicul de tip AUTOBUZ din judetul ARAD marca BOVA : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca EVOBUS : 6 
+Vehicul de tip AUTOBUZ din judetul ARAD marca FIAT : 2 
+Vehicul de tip AUTOBUZ din judetul ARAD marca GULERYUZ : 6 
+Vehicul de tip AUTOBUZ din judetul ARAD marca IKARUS : 19 
+Vehicul de tip AUTOBUZ din judetul ARAD marca IRISBUS : 26 
+Vehicul de tip AUTOBUZ din judetul ARAD marca ISUZU : 24 
+Vehicul de tip AUTOBUZ din judetul ARAD marca KASSBOHRER : 2 
+Vehicul de tip AUTOBUZ din judetul ARAD marca KASSBOHRER-SETRA : 4 
+Vehicul de tip AUTOBUZ din judetul ARAD marca MAN : 59 
+Vehicul de tip AUTOBUZ din judetul ARAD marca MENARINI : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca MERCEDES BENZ : 42 
+Vehicul de tip AUTOBUZ din judetul ARAD marca NAW : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca NEOPLAN : 34 
+Vehicul de tip AUTOBUZ din judetul ARAD marca OAF : 3 
+Vehicul de tip AUTOBUZ din judetul ARAD marca RENAULT : 9 
+Vehicul de tip AUTOBUZ din judetul ARAD marca RENAULT VI : 4 
+Vehicul de tip AUTOBUZ din judetul ARAD marca ROCAR : 3 
+Vehicul de tip AUTOBUZ din judetul ARAD marca ROMAN : 2 
+Vehicul de tip AUTOBUZ din judetul ARAD marca SCANIA : 21 
+Vehicul de tip AUTOBUZ din judetul ARAD marca SETRA : 87 
+Vehicul de tip AUTOBUZ din judetul ARAD marca STEYR : 2 
+Vehicul de tip AUTOBUZ din judetul ARAD marca TEMSA : 10 
+Vehicul de tip AUTOBUZ din judetul ARAD marca TEZELLER : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca VOLVO : 35 
+Vehicul de tip AUTOBUZ din judetul ARAD marca YUTONG : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca DAF : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca SKODA : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca IVECO-FIAT : 3 
+Vehicul de tip AUTOBUZ din judetul ARAD marca BERKHOF : 3 
+Vehicul de tip AUTOBUZ din judetul ARAD marca DEN OUDSTEN : 8 
+Vehicul de tip AUTOBUZ din judetul ARAD marca DROEGMOLLER : 5 
+Vehicul de tip AUTOBUZ din judetul ARAD marca GERA : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca HIGER : 3 
+Vehicul de tip AUTOBUZ din judetul ARAD marca IVECO - DYPETY : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca KAROSA : 6 
+Vehicul de tip AUTOBUZ din judetul ARAD marca KING LONG : 20 
+Vehicul de tip AUTOBUZ din judetul ARAD marca MAN-MARBUS : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca SANOS : 1 
+Vehicul de tip AUTOBUZ din judetul ARAD marca SICCA SICCAR : 2 
+Vehicul de tip AUTOBUZ din judetul ARAD marca VAN HOOL : 5 
+Vehicul de tip AUTOBUZ din judetul ARAD marca VDL : 14 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca IVECO : 2 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca VOLKSWAGEN : 55 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca FIAT : 8 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca IFA : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca ISUZU : 4 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca MERCEDES BENZ : 42 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca RENAULT : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca ROCAR : 10 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca ROMAN : 32 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca TOYOTA : 6 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca ARO : 34 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca AUTOBUZUL : 22 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca BARKAS : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca CITROEN : 2 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca DACIA : 668 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca FORD : 26 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca LAND ROVER : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca MAZDA : 8 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca MITSUBISHI : 7 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca NISSAN : 7 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca PEUGEOT : 7 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca AB : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca SR DAC : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca AUTOMECANICA : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca GAZ : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca DAF : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca DAEWOO : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca SEAT : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca BEDFORD : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARAD marca ROMPRIM : 5 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARAD marca CATERPILLAR : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARAD marca KOMATSU : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARAD marca MAT : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARAD marca NICOLINA IASI : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARAD marca SYNTHER : 1 
+Vehicul de tip AUTOREMORCHER din judetul ARAD marca TATRA : 2 
+Vehicul de tip AUTOREMORCHER din judetul ARAD marca KRAZ : 2 
+Vehicul de tip AUTORULOTA din judetul ARAD marca VOLKSWAGEN : 2 
+Vehicul de tip AUTORULOTA din judetul ARAD marca FIAT : 1 
+Vehicul de tip AUTORULOTA din judetul ARAD marca MERCEDES BENZ : 2 
+Vehicul de tip AUTORULOTA din judetul ARAD marca FORD : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca IVECO : 4 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca VOLKSWAGEN : 5 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca DAC : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca FIAT : 4 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca IFA : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca MAN : 4 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca MERCEDES BENZ : 21 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca RENAULT VI : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca ROMAN : 62 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca VOLVO : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca ARO : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca DACIA : 11 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca LAND ROVER : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca AB : 7 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca SR DAC : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca AUTOMECANICA : 24 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca CATERPILLAR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca TATRA : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca SR TIRGOVISTE : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca ADK : 8 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca JELEZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca KRAZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca UM TIMISOARA : 5 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca UMT : 5 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca IFRON : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca LIAZ : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca UTEPS : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca DAF : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca SR : 5 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca METALCAR : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca GROVE : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca ROMPRIM : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca PRAGA : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca APCAAT : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARAD marca MECORD : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca IVECO : 42 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca VOLKSWAGEN : 16 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca BMC : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca DAC : 6 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca FIAT : 18 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca IFA : 6 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca MAN : 10 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca MERCEDES BENZ : 93 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca OAF : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca RENAULT : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca RENAULT VI : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca ROCAR : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca ROMAN : 574 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca SCANIA : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca STEYR : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca VOLVO : 12 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca ARO : 21 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca AUTOBUZUL : 9 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca CITROEN : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca DACIA : 64 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca FORD : 7 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca NISSAN : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca PEUGEOT : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca AB : 36 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca SR DAC : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca AUTOMECANICA : 24 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca TATRA : 9 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca SRD : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca ASTRA : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca LIAZ : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca GAZ : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca DAF : 7 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca IVECO MAGIRUS : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca SR : 8 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca ARAD : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca MAGIRUS : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca MARSA : 54 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca METALCAR : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca GMC : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca AVIA : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca MICTON : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca MEDIAS : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca KAMAZ : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca SAURER : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARAD marca U.M.M. : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca IVECO : 116 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca IFA : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca MAN : 97 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca MERCEDES BENZ : 103 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca RENAULT : 4 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca RENAULT VI : 25 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca ROMAN : 54 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca SCANIA : 57 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca STEYR : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca VOLVO : 177 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca AB : 10 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca LIAZ : 3 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca DAF : 85 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca IVECO MAGIRUS : 11 
+Vehicul de tip AUTOTRACTOR din judetul ARAD marca RABA : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca IVECO : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MERCEDES-BENZ : 2940 
+Vehicul de tip AUTOTURISM din judetul ARAD marca VOLKSWAGEN : 29760 
+Vehicul de tip AUTOTURISM din judetul ARAD marca FIAT : 3040 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ISUZU : 24 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MERCEDES BENZ : 3009 
+Vehicul de tip AUTOTURISM din judetul ARAD marca RENAULT : 7226 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ROCAR : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca TOYOTA : 1428 
+Vehicul de tip AUTOTURISM din judetul ARAD marca VOLVO : 782 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ARO : 493 
+Vehicul de tip AUTOTURISM din judetul ARAD marca AUTOBUZUL : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca BARKAS : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca CITROEN : 1117 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DACIA : 23720 
+Vehicul de tip AUTOTURISM din judetul ARAD marca FORD : 12264 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LAND ROVER : 582 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MAZDA : 1665 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MITSUBISHI : 607 
+Vehicul de tip AUTOTURISM din judetul ARAD marca NISSAN : 1050 
+Vehicul de tip AUTOTURISM din judetul ARAD marca PEUGEOT : 3583 
+Vehicul de tip AUTOTURISM din judetul ARAD marca AUDI : 9260 
+Vehicul de tip AUTOTURISM din judetul ARAD marca GAZ : 5 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DAF : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ALFA ROMEO : 675 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ASIA : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca AUSTIN : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca AUSTIN ROVER : 4 
+Vehicul de tip AUTOTURISM din judetul ARAD marca BENTLEY : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca BMW : 8143 
+Vehicul de tip AUTOTURISM din judetul ARAD marca BUICK : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca CADILLAC : 4 
+Vehicul de tip AUTOTURISM din judetul ARAD marca CHEVROLET : 1167 
+Vehicul de tip AUTOTURISM din judetul ARAD marca CHRYSLER : 121 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DAEWOO : 2399 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DAIHATSU : 166 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DAIMLER : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DATSUN : 8 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DODGE : 41 
+Vehicul de tip AUTOTURISM din judetul ARAD marca FERRARI : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca FORD-CNG-TECHNIK : 6 
+Vehicul de tip AUTOTURISM din judetul ARAD marca GEELY : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca HONDA : 385 
+Vehicul de tip AUTOTURISM din judetul ARAD marca HYUNDAI : 1399 
+Vehicul de tip AUTOTURISM din judetul ARAD marca INFINITI : 8 
+Vehicul de tip AUTOTURISM din judetul ARAD marca JAGUAR : 79 
+Vehicul de tip AUTOTURISM din judetul ARAD marca JEEP : 190 
+Vehicul de tip AUTOTURISM din judetul ARAD marca KIA : 750 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LADA : 198 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LADA-VAZ : 26 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LANCIA : 183 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LEXUS : 34 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LINCOLN : 5 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LUAZ : 4 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MARUTI : 5 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MASERATI : 11 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MAZDA-FORD : 5 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MCC : 43 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MG : 4 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MINI : 251 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MORRIS : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MOSKVICH : 25 
+Vehicul de tip AUTOTURISM din judetul ARAD marca OLTCIT : 294 
+Vehicul de tip AUTOTURISM din judetul ARAD marca OPEL : 22947 
+Vehicul de tip AUTOTURISM din judetul ARAD marca POLSKI FIAT : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca PONTIAC : 8 
+Vehicul de tip AUTOTURISM din judetul ARAD marca PORSCHE : 93 
+Vehicul de tip AUTOTURISM din judetul ARAD marca QUATTRO : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ROLLS-ROYCE : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ROVER : 226 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SAAB : 72 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SANTANA : 6 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SEAT : 1907 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SKODA : 4345 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SMART : 372 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SSANGYONG : 47 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SSANGYONG/DAEWOO : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SUBARU : 129 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SUZUKI : 890 
+Vehicul de tip AUTOTURISM din judetul ARAD marca TALBOT : 21 
+Vehicul de tip AUTOTURISM din judetul ARAD marca TATA : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca TRABANT : 143 
+Vehicul de tip AUTOTURISM din judetul ARAD marca TRIUMPH : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca UAZ : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca VAUXHALL : 44 
+Vehicul de tip AUTOTURISM din judetul ARAD marca VOLGA : 6 
+Vehicul de tip AUTOTURISM din judetul ARAD marca WARTBURG : 16 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ZAZ : 6 
+Vehicul de tip AUTOTURISM din judetul ARAD marca GWM : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca HUMMER : 9 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MERCEDES - BENZ : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LAMBORGHINI : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca BEDFORD : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca AERO : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ALFA  ROMEO : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca AUTOBIANCHI : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca DACAIA : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca INNOCENTI : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca KODEWA : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LOTUS : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca LTI : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MERCURY : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca MICRO COMPACT CAR : 3 
+Vehicul de tip AUTOTURISM din judetul ARAD marca OLDSMOBILE : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca PLYMOUTH : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca RANGE ROVER : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca RENAULT-MATRA : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca ROLLS ROYCE : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SIERRA : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca SIMCA : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca VEDDER : 1 
+Vehicul de tip AUTOTURISM din judetul ARAD marca WARSZAWA : 2 
+Vehicul de tip AUTOTURISM din judetul ARAD marca IMS : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IVECO : 2186 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MERCEDES-BENZ : 2313 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca VOLKSWAGEN : 2513 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca DAC : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca FIAT : 1057 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IFA : 35 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ISUZU : 38 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MAN : 777 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MERCEDES BENZ : 1321 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca OAF : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT : 1265 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT VI : 157 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ROCAR : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ROMAN : 245 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SCANIA : 621 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca STEYR : 23 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca TOYOTA : 175 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca VOLVO : 671 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ARO : 263 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca AUTOBUZUL : 94 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca BARKAS : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca CITROEN : 416 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca DACIA : 2068 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca FORD : 1958 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca LAND ROVER : 45 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MAZDA : 84 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MITSUBISHI : 328 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca NISSAN : 450 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca PEUGEOT : 664 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca AB : 28 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca AUTOMECANICA : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca AUDI : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SRD : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ASTRA : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca LIAZ : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ZIL : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca GAZ : 12 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca DAF : 1341 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IVECO MAGIRUS : 81 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MULTICAR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ROBUR : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SR : 34 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MAGIRUS : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca METALCAR : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca BMW : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca CADILLAC : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca CHEVROLET : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca CHRYSLER : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca DAEWOO : 32 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca DAIHATSU : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca DODGE : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca GMC : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca HYUNDAI : 38 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca JEEP : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca KIA : 15 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca OLTCIT : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca OPEL : 512 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ROVER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SANTANA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SEAT : 75 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SKODA : 29 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SMART : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SSANGYONG : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SUZUKI : 40 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca TATA : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca VAUXHALL : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca WARTBURG : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ZAZ : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca HUMMER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca AM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca FS LUBLIN : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca HANOMAG : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IJ : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IVECO-FIAT : 11 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca LDV : 6 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MITSUBISHI FUSO : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca OM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca PIAGGIO : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca VOLSKWAGEN : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca AVIA : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IVECO-FORD : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MICTON : 12 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca VOLKSWAGEN-MAN : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca FODEN : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca IVECO-MAGIRUS : 23 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca BEDFORD : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca PRAGA : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca FIAT-IVECO : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca GIOTTI VICTORIA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca I.AUTOBUZUL : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MOLOTOV : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT MOD DRST : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT V.I. : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT/ IZOTERMY TIM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT/ITS SYSTEM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT/MOTOVEKTOR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT/MR AUTO : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca RENAULT/PARTNER : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca ZUK : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca \MERCEDES-BENZ : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SAVIEM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca LUGOMET : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca MERCEDES/KASSBOHRER : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca SISU : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARAD marca UMM : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca IVECO : 40 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MERCEDES-BENZ : 113 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca VOLKSWAGEN : 40 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca BMC : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca DENNIS : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca FIAT : 44 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca IFA : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca ISUZU : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MAN : 28 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MERCEDES BENZ : 22 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca OAF : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca RENAULT : 23 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca RENAULT VI : 7 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca ROMAN : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca SCANIA : 9 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca STEYR : 9 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca TOYOTA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca VOLVO : 16 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca ARO : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca CITROEN : 11 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca DACIA : 18 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca FORD : 27 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MITSUBISHI : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca NISSAN : 19 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca PEUGEOT : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca DAF : 27 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca IVECO MAGIRUS : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca SR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MAGIRUS : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca DODGE : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca KIA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca OPEL : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MERCEDES - BENZ : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca VOLSKWAGEN : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca IVECO-FORD : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca VOLKSWAGEN-MAN : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca FODEN : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca IVECO-MAGIRUS : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca SEDDON ATKINSON : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca UNIMOG : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca GROVE : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca LIEBHERR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca SAVIEM : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca BURSTNER : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca CAPRON : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca FIAT/TRIGANO : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MERCEDES-BENZ-CENTO : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca TRIGANO : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca OIL&STEEL : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca ACMAT : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca ETALMOBIL : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca MAGIRUS-DEUTZ : 11 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca BABELS : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca DEMAG : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca FAUN : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca PPM : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARAD marca ZOELLER  TECH : 1 
+Vehicul de tip MICROBUZ din judetul ARAD marca IVECO : 49 
+Vehicul de tip MICROBUZ din judetul ARAD marca MERCEDES-BENZ : 81 
+Vehicul de tip MICROBUZ din judetul ARAD marca VOLKSWAGEN : 38 
+Vehicul de tip MICROBUZ din judetul ARAD marca FIAT : 20 
+Vehicul de tip MICROBUZ din judetul ARAD marca IRISBUS : 14 
+Vehicul de tip MICROBUZ din judetul ARAD marca MERCEDES BENZ : 129 
+Vehicul de tip MICROBUZ din judetul ARAD marca RENAULT : 5 
+Vehicul de tip MICROBUZ din judetul ARAD marca ROCAR : 5 
+Vehicul de tip MICROBUZ din judetul ARAD marca AUTOBUZUL : 12 
+Vehicul de tip MICROBUZ din judetul ARAD marca FORD : 98 
+Vehicul de tip MICROBUZ din judetul ARAD marca PEUGEOT : 3 
+Vehicul de tip MICROBUZ din judetul ARAD marca DODGE : 1 
+Vehicul de tip MICROBUZ din judetul ARAD marca OPEL : 17 
+Vehicul de tip MICROBUZ din judetul ARAD marca FORD-CIBRO : 4 
+Vehicul de tip MICROBUZ din judetul ARAD marca OPEL - CIBRO : 26 
+Vehicul de tip MICROBUZ din judetul ARAD marca KING : 2 
+Vehicul de tip MOPED din judetul ARAD marca PEUGEOT : 1 
+Vehicul de tip MOPED din judetul ARAD marca SUZUKI : 1 
+Vehicul de tip MOPED din judetul ARAD marca GILERA : 2 
+Vehicul de tip MOPED din judetul ARAD marca MALAGUTI : 3 
+Vehicul de tip MOPED din judetul ARAD marca QINGQI : 3 
+Vehicul de tip MOPED din judetul ARAD marca JINLUN : 1 
+Vehicul de tip MOPED din judetul ARAD marca HERCULES : 1 
+Vehicul de tip MOPED din judetul ARAD marca MOBYLETTE : 1 
+Vehicul de tip MOPED din judetul ARAD marca MOFA : 1 
+Vehicul de tip MOTOCAR din judetul ARAD marca MURAVEI : 1 
+Vehicul de tip MOTOCAR din judetul ARAD marca TGA : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca IFA : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca BMW : 26 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca HONDA : 99 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca SUZUKI : 75 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca TRIUMPH : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca IJ : 49 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca PIAGGIO : 13 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca APRILIA : 24 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca GILERA : 10 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca QINGQI : 23 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca CAGIVA : 15 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca CZ : 14 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca DNEPR : 10 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca DUCATI : 3 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca JAWA : 51 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca JINLUN : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca K : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca KAWASAKI : 74 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca KTM : 24 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MINSK : 50 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MMVZ : 3 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MOTO-GUZZI : 3 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MZ : 106 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MZ/ETZ : 43 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca SIMSON : 39 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca TMZ : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca VOSHOD : 7 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca YAMAHA : 88 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca LIFAN : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca BENELLI : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca HARLEY DAVIDSON : 3 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca HUSQVARNA : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca HYOSUNG : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MANET : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca MOBRA : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca SMC : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca ITALJET : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca PUCH : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca DANUVIA : 1 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca EMW : 2 
+Vehicul de tip MOTOCICLETA din judetul ARAD marca FANTIC : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PEUGEOT : 12 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BMW : 120 
+Vehicul de tip MOTOCICLU din judetul ARAD marca GEELY : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HONDA : 585 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SUZUKI : 369 
+Vehicul de tip MOTOCICLU din judetul ARAD marca TRIUMPH : 13 
+Vehicul de tip MOTOCICLU din judetul ARAD marca IJ : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PIAGGIO : 101 
+Vehicul de tip MOTOCICLU din judetul ARAD marca APRILIA : 99 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CPI : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca DERBI : 4 
+Vehicul de tip MOTOCICLU din judetul ARAD marca GILERA : 7 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MALAGUTI : 36 
+Vehicul de tip MOTOCICLU din judetul ARAD marca QINGQI : 13 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CAGIVA : 9 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CZ : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca DAELIM : 12 
+Vehicul de tip MOTOCICLU din judetul ARAD marca DUCATI : 34 
+Vehicul de tip MOTOCICLU din judetul ARAD marca JAWA : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca JINLUN : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KAWASAKI : 219 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KTM : 65 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KYMKO : 50 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MINSK : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MZ : 11 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SIMSON : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca VOSHOD : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca YAMAHA : 422 
+Vehicul de tip MOTOCICLU din judetul ARAD marca IMZ : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BAOTIAN : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BETA : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca FIRST BIKE : 28 
+Vehicul de tip MOTOCICLU din judetul ARAD marca LIFAN : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MBK : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca AGUSTA : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BELGARDA : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BENELLI : 8 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CFMOTO : 68 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CN MOTO : 20 
+Vehicul de tip MOTOCICLU din judetul ARAD marca GARRELLI : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HARLEY DAVIDSON : 45 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HSUN : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HUSQVARNA : 8 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HYOSUNG : 6 
+Vehicul de tip MOTOCICLU din judetul ARAD marca JONWAY : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KEEWAY : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KYMCO : 25 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MANET : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MOBRA : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MOTO GUZZI : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MOTO MORINI : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MOTORBIKE : 4 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MV AGUSTA : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MV AUGUSTA : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PL MOTO : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SACHS : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SAN YANG : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca STANDARD MOTOR : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SYM : 14 
+Vehicul de tip MOTOCICLU din judetul ARAD marca YIYING : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ZONGSHEN : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BOMBARDIER : 26 
+Vehicul de tip MOTOCICLU din judetul ARAD marca AIXAM : 7 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CHATENET : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca AEON : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca AIE : 7 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ARCTIC CAT : 6 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BASHAN : 7 
+Vehicul de tip MOTOCICLU din judetul ARAD marca CHUNFENG : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca DRESEL : 11 
+Vehicul de tip MOTOCICLU din judetul ARAD marca EAGLE : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca GOES : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca GSMOON : 4 
+Vehicul de tip MOTOCICLU din judetul ARAD marca I MOTO : 8 
+Vehicul de tip MOTOCICLU din judetul ARAD marca IPS : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca JIANSHE : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca JINLING : 4 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KINROAD : 5 
+Vehicul de tip MOTOCICLU din judetul ARAD marca LINHAI : 109 
+Vehicul de tip MOTOCICLU din judetul ARAD marca LONCIN : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MICROCAR : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PAOLETTI : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PGO : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca POLARIS : 9 
+Vehicul de tip MOTOCICLU din judetul ARAD marca REINMECH : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SHINERAY : 7 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SMC : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca TGB : 8 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ITALJET : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ZUNDAPP : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PUCH : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca FANTIC : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca INTERCYCLE : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca LINGBEN : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca QJ : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca RIEJU : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca XINGYUE : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ZNEN : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BIANCHI : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BUELL : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca GAS GAS : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HEALTH EXCEED : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HUONIAO : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca INDIAN MOTORCYCLE : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca JIALING : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca KSR MOTO AUSTRIA : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MONTESA : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca MOTO : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca RIDE : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ROYAL ENFIELD : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca SHERCO : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca XIONGTAI : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ZTECH : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca URAL : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BOOM TRIKES : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca LIGIER : 3 
+Vehicul de tip MOTOCICLU din judetul ARAD marca XINDAYANG : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ADLY : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ADLY MOTO : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca BAROSSA MOTOR : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca E-TON : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca EAGLE MOTORSPORTS : 2 
+Vehicul de tip MOTOCICLU din judetul ARAD marca EGI MOTORS : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca HI-BIRD : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca LONGCHANG : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca ODES : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca PELPI  INTERNATIONAL : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca TMEC : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca UNIVERSAL MOTOR : 1 
+Vehicul de tip MOTOCICLU din judetul ARAD marca WANGYE : 1 
+Vehicul de tip MOTOCVADRICICLU din judetul ARAD marca KYMKO : 1 
+Vehicul de tip MOTOCVADRICICLU din judetul ARAD marca LIFAN : 3 
+Vehicul de tip MOTOCVADRICICLU din judetul ARAD marca DINLI : 2 
+Vehicul de tip MOTOCVADRICICLU din judetul ARAD marca LINHAI : 3 
+Vehicul de tip MOTOCVADRICICLU din judetul ARAD marca SMC : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca HONDA : 2 
+Vehicul de tip MOTORETA din judetul ARAD marca PIAGGIO : 2 
+Vehicul de tip MOTORETA din judetul ARAD marca APRILIA : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca GILERA : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca QINGQI : 2 
+Vehicul de tip MOTORETA din judetul ARAD marca JAWA : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca SIMSON : 7 
+Vehicul de tip MOTORETA din judetul ARAD marca YAMAHA : 3 
+Vehicul de tip MOTORETA din judetul ARAD marca LIFAN : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca MOBRA : 106 
+Vehicul de tip MOTORETA din judetul ARAD marca LINHAI : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca CARPATI : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca ZUNDAPP : 3 
+Vehicul de tip MOTORETA din judetul ARAD marca HERCULES : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca DKW : 1 
+Vehicul de tip MOTORETA din judetul ARAD marca REX : 1 
+Vehicul de tip REMORCA din judetul ARAD marca PONGRATZ : 1 
+Vehicul de tip SCUTER din judetul ARAD marca PEUGEOT : 3 
+Vehicul de tip SCUTER din judetul ARAD marca HONDA : 4 
+Vehicul de tip SCUTER din judetul ARAD marca SUZUKI : 1 
+Vehicul de tip SCUTER din judetul ARAD marca PIAGGIO : 8 
+Vehicul de tip SCUTER din judetul ARAD marca APRILIA : 6 
+Vehicul de tip SCUTER din judetul ARAD marca MALAGUTI : 1 
+Vehicul de tip SCUTER din judetul ARAD marca YAMAHA : 3 
+Vehicul de tip SCUTER din judetul ARAD marca BENELLI : 1 
+Vehicul de tip SCUTER din judetul ARAD marca SYM : 1 
+Vehicul de tip SCUTER din judetul ARAD marca PGO : 1 
+Vehicul de tip SCUTER din judetul ARAD marca M.B.K : 1 
+Vehicul de tip SCUTER din judetul ARAD marca MALACUTTI : 1 
+Vehicul de tip SEMIREMORCA din judetul ARAD marca SCHMITZ CARGOBULL : 24 
+Vehicul de tip SEMIREMORCA din judetul ARAD marca KRONE : 2 
+Vehicul de tip TRACTOR din judetul ARAD marca FIAT : 3 
+Vehicul de tip TRACTOR din judetul ARAD marca RENAULT : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca STEYR : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca FORD : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca TAF : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca BOMBARDIER : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca ACCESS : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca LINHAI : 3 
+Vehicul de tip TRACTOR din judetul ARAD marca BELARUS : 5 
+Vehicul de tip TRACTOR din judetul ARAD marca CASE : 11 
+Vehicul de tip TRACTOR din judetul ARAD marca CNH INTERNATIONAL : 15 
+Vehicul de tip TRACTOR din judetul ARAD marca DEUTZ : 5 
+Vehicul de tip TRACTOR din judetul ARAD marca FENDT : 5 
+Vehicul de tip TRACTOR din judetul ARAD marca FOTON : 2 
+Vehicul de tip TRACTOR din judetul ARAD marca JOHN DEERE : 22 
+Vehicul de tip TRACTOR din judetul ARAD marca LAMBORGHINI : 2 
+Vehicul de tip TRACTOR din judetul ARAD marca LANDINI : 7 
+Vehicul de tip TRACTOR din judetul ARAD marca MASSEY FERGUSON : 18 
+Vehicul de tip TRACTOR din judetul ARAD marca MC CORMICK : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca MTZ : 2 
+Vehicul de tip TRACTOR din judetul ARAD marca NEW HOLLAND : 16 
+Vehicul de tip TRACTOR din judetul ARAD marca UTB : 16 
+Vehicul de tip TRACTOR din judetul ARAD marca VALTRA : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca YTO : 4 
+Vehicul de tip TRACTOR din judetul ARAD marca ZETOR : 10 
+Vehicul de tip TRACTOR din judetul ARAD marca DONG FENG : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca MASSEY-FERGUSON : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca SAME : 9 
+Vehicul de tip TRACTOR din judetul ARAD marca U.T.B. : 40 
+Vehicul de tip TRACTOR din judetul ARAD marca AGCO : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca JCB : 2 
+Vehicul de tip TRACTOR din judetul ARAD marca MAT : 2 
+Vehicul de tip TRACTOR din judetul ARAD marca CASE IH : 3 
+Vehicul de tip TRACTOR din judetul ARAD marca DEUTZ-FAHR : 4 
+Vehicul de tip TRACTOR din judetul ARAD marca REFORM : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca SCHOENEBECK : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca KUBOTA : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca WARCHALOWSKI : 1 
+Vehicul de tip TRACTOR din judetul ARAD marca BRP : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca FIAT : 3 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca RENAULT : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca STEYR : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca CRAIOVA : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca BELARUS : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca CASE : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca FENDT : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca JOHN DEERE : 7 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca LAMBORGHINI : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca YTO : 4 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca U.T.B. : 293 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca IRUM-REGHIN : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca SHIJIAZHAUNG : 2 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca UNIVERSAL : 517 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca MAT : 1 
+Vehicul de tip TRACTOR RUTIER din judetul ARAD marca XINGTAI : 1 
+Vehicul de tip VEHICUL INCOMPLET din judetul ARAD marca RENAULT : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca IVECO : 43 
+Vehicul de tip AUTOBUZ din judetul ARGES marca MERCEDES-BENZ : 52 
+Vehicul de tip AUTOBUZ din judetul ARGES marca A8 : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca BMC : 91 
+Vehicul de tip AUTOBUZ din judetul ARGES marca BOVA : 10 
+Vehicul de tip AUTOBUZ din judetul ARGES marca DAC : 17 
+Vehicul de tip AUTOBUZ din judetul ARGES marca GULERYUZ : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca IKARUS : 10 
+Vehicul de tip AUTOBUZ din judetul ARGES marca IRISBUS : 16 
+Vehicul de tip AUTOBUZ din judetul ARGES marca ISUZU : 74 
+Vehicul de tip AUTOBUZ din judetul ARGES marca KASSBOHRER : 11 
+Vehicul de tip AUTOBUZ din judetul ARGES marca KASSBOHRER-SETRA : 7 
+Vehicul de tip AUTOBUZ din judetul ARGES marca MAN : 36 
+Vehicul de tip AUTOBUZ din judetul ARGES marca MERCEDES BENZ : 17 
+Vehicul de tip AUTOBUZ din judetul ARGES marca NAW : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca NEOPLAN : 11 
+Vehicul de tip AUTOBUZ din judetul ARGES marca OTOKAR : 7 
+Vehicul de tip AUTOBUZ din judetul ARGES marca RENAULT : 13 
+Vehicul de tip AUTOBUZ din judetul ARGES marca RENAULT VI : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca ROCAR : 39 
+Vehicul de tip AUTOBUZ din judetul ARGES marca ROMAN : 49 
+Vehicul de tip AUTOBUZ din judetul ARGES marca SCANIA : 4 
+Vehicul de tip AUTOBUZ din judetul ARGES marca SETRA : 66 
+Vehicul de tip AUTOBUZ din judetul ARGES marca TEMSA : 5 
+Vehicul de tip AUTOBUZ din judetul ARGES marca TEZELLER : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca TOYOTA : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca TURKKAR : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca VOLVO : 17 
+Vehicul de tip AUTOBUZ din judetul ARGES marca YUTONG : 2 
+Vehicul de tip AUTOBUZ din judetul ARGES marca AUTOBUZUL : 8 
+Vehicul de tip AUTOBUZ din judetul ARGES marca GRIVBUS : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca ROBUR : 15 
+Vehicul de tip AUTOBUZ din judetul ARGES marca BERKHOF : 4 
+Vehicul de tip AUTOBUZ din judetul ARGES marca DROEGMOLLER : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca MAN-MARBUS : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca VAN HOOL : 3 
+Vehicul de tip AUTOBUZ din judetul ARGES marca VDL : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca GRIVBUZ : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca IVECO BUS : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca KAESSBOHRER : 2 
+Vehicul de tip AUTOBUZ din judetul ARGES marca LEYLAND : 1 
+Vehicul de tip AUTOBUZ din judetul ARGES marca MAZ : 15 
+Vehicul de tip AUTOBUZ din judetul ARGES marca OTOYOL-IVECO : 3 
+Vehicul de tip AUTOBUZ din judetul ARGES marca SOLARIS : 70 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca IVECO : 4 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca VOLKSWAGEN : 22 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca DAC : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca FIAT : 5 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca MERCEDES BENZ : 13 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca RENAULT : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca ROCAR : 15 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca ROMAN : 36 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca TOYOTA : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca ARO : 129 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca AUTOBUZUL : 32 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca BARKAS : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca CITROEN : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca DACIA : 1424 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca FORD : 8 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca MAZDA : 4 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca MITSUBISHI : 11 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca NISSAN : 7 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca PEUGEOT : 30 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca AB : 7 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca SR DAC : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca AUTOMECANICA : 5 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca GAZ : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca DAF : 2 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca SUZUKI : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca DAIMLER BENZ : 1 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca ROMPRIM : 3 
+Vehicul de tip AUTOMOBIL MIXT din judetul ARGES marca CONCORDIA : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca CATERPILLAR : 7 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca KOMATSU : 10 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca BELARUS : 4 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca CASE : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca MASSEY FERGUSON : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca JCB : 3 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca MAT : 5 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca KRAMER : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca PALAZZANI : 1 
+Vehicul de tip AUTOPROPULSATA LUCRARI din judetul ARGES marca SCHMIDT : 1 
+Vehicul de tip AUTOREMORCHER din judetul ARGES marca ROMAN : 5 
+Vehicul de tip AUTOREMORCHER din judetul ARGES marca TATRA : 1 
+Vehicul de tip AUTORULOTA din judetul ARGES marca VOLKSWAGEN : 2 
+Vehicul de tip AUTORULOTA din judetul ARGES marca FIAT : 2 
+Vehicul de tip AUTORULOTA din judetul ARGES marca RENAULT : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca IVECO : 20 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca VOLKSWAGEN : 7 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca DAC : 5 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca FIAT : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca MAN : 7 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca MERCEDES BENZ : 15 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca OAF : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca RENAULT : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca ROMAN : 39 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca VOLVO : 6 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca ARO : 8 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca DACIA : 13 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca FORD : 4 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca AB : 18 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca AUTOMECANICA : 49 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca CATERPILLAR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca TATRA : 6 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca AUDI : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca LUGOJ : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca SR TIRGOVISTE : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca SRD : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca ADK : 6 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca KRAZ : 11 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca UBEMAR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca UM TIMISOARA : 8 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca UMT : 15 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca IFRON : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca KMZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca TAF : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca UTEPS : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca SR : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca MAGIRUS : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca METALCAR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca SKODA : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca GROVE : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca LIEBHERR : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca BELARUS : 8 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca MTZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca U.T.B. : 2 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca JCB : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca ROMPRIM : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca APCAAT : 3 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca KAMAZ : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca URAL : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca SCAM : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca A.T.I. : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca STALOWA WOLA : 1 
+Vehicul de tip AUTOSPECIALA din judetul ARGES marca PROMEX : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca IVECO : 61 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca VOLKSWAGEN : 8 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca DAC : 15 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca FIAT : 38 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca IFA : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MAN : 23 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MERCEDES BENZ : 68 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca RENAULT : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca RENAULT VI : 10 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca ROCAR : 11 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca ROMAN : 636 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca SCANIA : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca VOLVO : 13 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca ARO : 58 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca AUTOBUZUL : 9 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca BARKAS : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca CITROEN : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca DACIA : 352 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca FORD : 8 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MITSUBISHI : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca NISSAN : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca PEUGEOT : 5 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca AB : 94 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca AUTOMECANICA : 98 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca TATRA : 11 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca SRD : 7 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca GAZ : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca DAF : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca IVECO MAGIRUS : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MULTICAR : 3 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca SR : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca ARAD : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MARSA : 174 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca METALCAR : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca ASIA : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca CHEVROLET : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca SEAT : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MICTON : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca ROMPRIM : 2 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca MEDIAS : 4 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca KAMAZ : 1 
+Vehicul de tip AUTOSPECIALIZATA din judetul ARGES marca KAZ : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca IVECO : 191 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca DAC : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca MAN : 179 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca MERCEDES BENZ : 58 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca RENAULT : 17 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca RENAULT VI : 19 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca ROMAN : 71 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca SCANIA : 36 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca VOLVO : 161 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca AB : 29 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca TATRA : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca DAF : 172 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca IVECO MAGIRUS : 17 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca SR : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca INTERNATIONAL : 1 
+Vehicul de tip AUTOTRACTOR din judetul ARGES marca PETERBILT : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca IVECO : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MERCEDES-BENZ : 2298 
+Vehicul de tip AUTOTURISM din judetul ARGES marca VOLKSWAGEN : 27101 
+Vehicul de tip AUTOTURISM din judetul ARGES marca FIAT : 3322 
+Vehicul de tip AUTOTURISM din judetul ARGES marca IFA : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ISUZU : 3 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MERCEDES BENZ : 1780 
+Vehicul de tip AUTOTURISM din judetul ARGES marca RENAULT : 11992 
+Vehicul de tip AUTOTURISM din judetul ARGES marca TOYOTA : 2289 
+Vehicul de tip AUTOTURISM din judetul ARGES marca VOLVO : 567 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ARO : 1369 
+Vehicul de tip AUTOTURISM din judetul ARGES marca AUTOBUZUL : 3 
+Vehicul de tip AUTOTURISM din judetul ARGES marca BARKAS : 6 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CITROEN : 1480 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DACIA : 66070 
+Vehicul de tip AUTOTURISM din judetul ARGES marca FORD : 9944 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LAND ROVER : 727 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MAZDA : 708 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MITSUBISHI : 719 
+Vehicul de tip AUTOTURISM din judetul ARGES marca NISSAN : 1292 
+Vehicul de tip AUTOTURISM din judetul ARGES marca PEUGEOT : 4420 
+Vehicul de tip AUTOTURISM din judetul ARGES marca AUDI : 7000 
+Vehicul de tip AUTOTURISM din judetul ARGES marca GAZ : 4 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DAF : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ACURA : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ALFA ROMEO : 485 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ASIA : 7 
+Vehicul de tip AUTOTURISM din judetul ARGES marca AUSTIN : 5 
+Vehicul de tip AUTOTURISM din judetul ARGES marca AUSTIN ROVER : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca BENTLEY : 7 
+Vehicul de tip AUTOTURISM din judetul ARGES marca BMW : 8469 
+Vehicul de tip AUTOTURISM din judetul ARGES marca BUICK : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CADILLAC : 11 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CAMI : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CHEVROLET : 1905 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CHRYSLER : 90 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DAEWOO : 8480 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DAIHATSU : 188 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DATSUN : 4 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DODGE : 42 
+Vehicul de tip AUTOTURISM din judetul ARGES marca FERRARI : 8 
+Vehicul de tip AUTOTURISM din judetul ARGES marca FORD-CNG-TECHNIK : 9 
+Vehicul de tip AUTOTURISM din judetul ARGES marca GEELY : 12 
+Vehicul de tip AUTOTURISM din judetul ARGES marca GEO : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca GMC : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca HONDA : 615 
+Vehicul de tip AUTOTURISM din judetul ARGES marca HYUNDAI : 2006 
+Vehicul de tip AUTOTURISM din judetul ARGES marca INFINITI : 20 
+Vehicul de tip AUTOTURISM din judetul ARGES marca JAGUAR : 98 
+Vehicul de tip AUTOTURISM din judetul ARGES marca JEEP : 180 
+Vehicul de tip AUTOTURISM din judetul ARGES marca KIA : 1118 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LADA : 144 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LADA-VAZ : 36 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LANCIA : 124 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LEXUS : 67 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LINCOLN : 3 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LUAZ : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MARUTI : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MASERATI : 8 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MAZDA-FORD : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MCC : 28 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MERCEDES- BENZ : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MG : 6 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MINI : 220 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MOSKVICH : 53 
+Vehicul de tip AUTOTURISM din judetul ARGES marca OLTCIT : 794 
+Vehicul de tip AUTOTURISM din judetul ARGES marca OPEL : 20633 
+Vehicul de tip AUTOTURISM din judetul ARGES marca POLSKI FIAT : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca PONTIAC : 12 
+Vehicul de tip AUTOTURISM din judetul ARGES marca PORSCHE : 160 
+Vehicul de tip AUTOTURISM din judetul ARGES marca PROTON : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca QUATTRO : 7 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ROVER : 181 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SAAB : 74 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SANTANA : 17 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SEAT : 2084 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SHUANG HUAN : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SKODA : 10462 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SMART : 481 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SSANGYONG : 80 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SSANGYONG/DAEWOO : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SUBARU : 128 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SUZUKI : 1647 
+Vehicul de tip AUTOTURISM din judetul ARGES marca TALBOT : 5 
+Vehicul de tip AUTOTURISM din judetul ARGES marca TATA : 5 
+Vehicul de tip AUTOTURISM din judetul ARGES marca TESLA MOTORS : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca TRABANT : 432 
+Vehicul de tip AUTOTURISM din judetul ARGES marca UAZ : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca VAUXHALL : 90 
+Vehicul de tip AUTOTURISM din judetul ARGES marca VOLGA : 5 
+Vehicul de tip AUTOTURISM din judetul ARGES marca WARTBURG : 89 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ZAZ : 4 
+Vehicul de tip AUTOTURISM din judetul ARGES marca GWM : 18 
+Vehicul de tip AUTOTURISM din judetul ARGES marca HUMMER : 10 
+Vehicul de tip AUTOTURISM din judetul ARGES marca IJ : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LAMBORGHINI : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ALFA  ROMEO : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca INNOCENTI : 3 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LOTUS : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca LTI : 6 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MERCURY : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MICRO COMPACT CAR : 6 
+Vehicul de tip AUTOTURISM din judetul ARGES marca PLYMOUTH : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ROLLS ROYCE : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca SIMCA : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ASTON MARTIN : 4 
+Vehicul de tip AUTOTURISM din judetul ARGES marca BMW I : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca BRILLIANCE : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CANARIOS : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca CHERY : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DR MOTOR : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca DS : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca FSO : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca M461 : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MECEDES-BENZ : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca MERCEDES-AMG : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca POLSKI-FIAT : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca T0YOTA. : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca TOFAS : 2 
+Vehicul de tip AUTOTURISM din judetul ARGES marca WESTFIELD : 1 
+Vehicul de tip AUTOTURISM din judetul ARGES marca ZASTAVA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IVECO : 2254 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MERCEDES-BENZ : 3954 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca VOLKSWAGEN : 1610 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca BMC : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DAC : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FIAT : 1543 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IFA : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ISUZU : 17 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MAN : 1469 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MERCEDES BENZ : 1760 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca OAF : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT : 1472 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT VI : 224 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ROCAR : 34 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ROMAN : 638 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SCANIA : 670 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca STEYR : 10 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca TOYOTA : 237 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca VOLVO : 1277 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ARO : 1387 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca AUTOBUZUL : 162 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca BARKAS : 12 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca CITROEN : 667 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DACIA : 6840 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FORD : 2081 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca LAND ROVER : 39 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MAZDA : 26 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MITSUBISHI : 484 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca NISSAN : 325 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca PEUGEOT : 951 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca AB : 108 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca AUTOMECANICA : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca TATRA : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca AUDI : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SRD : 24 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ASTRA : 25 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca KRAZ : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ZIL : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca GAZ : 33 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DAF : 1860 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IVECO MAGIRUS : 198 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MULTICAR : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ROBUR : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SR : 23 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MAGIRUS : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MARSA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca METALCAR : 10 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ASIA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca BMW : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca CHEVROLET : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca CHRYSLER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DAEWOO : 63 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DAIHATSU : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DATSUN : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DODGE : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca HONDA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca HYUNDAI : 30 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca INFINITI : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca JEEP : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca KIA : 64 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MERCEDES- BENZ : 4 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MOSKVICH : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca OLTCIT : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca OPEL : 399 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SANTANA : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SEAT : 24 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SKODA : 35 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SSANGYONG : 13 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca SUZUKI : 27 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca TATA : 6 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca VAUXHALL : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca WARTBURG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca GWM : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca AM : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DAIMLER BENZ : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FREIGHT ROVER : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FS LUBLIN : 7 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca HANOMAG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IJ : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IVECO-FIAT : 5 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca LDV : 12 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MERCEDES - BENZ : 6 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MITSUBISHI FUSO : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca OM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca PIAGGIO : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/MOTOWEKTOR : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca VOLSKWAGEN : 16 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca AVIA : 10 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IVECO-FORD : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MICTON : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ERF : 6 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FODEN : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca GINAF : 8 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IVECO-MAGIRUS : 104 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RABA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca TERBERG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca UNIMOG : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca I.AUTOBUZUL : 6 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT V.I. : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/ IZOTERMY TIM : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/ITS SYSTEM : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/MOTOVEKTOR : 3 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/MR AUTO : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca ZUK : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MERCEDES/KASSBOHRER : 23 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca LEYLAND : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MAZ : 13 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DACIA - ROMTURINGIA : 6 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca DANGEL : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FIAT/CARPOL : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FIAT/KAMIL NADWOZIA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FIAT/LAMAR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FIAT/MOTOWEKTOR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FORD/UNIKAR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca IVECO/ROMCAR : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MAHINDRA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MERCEDES  BENZ : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca NISA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/CARPOL : 2 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca RENAULT/TENSA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca STEYR-D-PUCH : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca FREIGHTLINER : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca I.M.MARSA : 1 
+Vehicul de tip AUTOUTILITARA din judetul ARGES marca MAN / VS-MONT : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca IVECO : 153 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MERCEDES-BENZ : 180 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca VOLKSWAGEN : 58 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca DAC : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca FIAT : 44 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca IFA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca ISUZU : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MAN : 147 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MERCEDES BENZ : 49 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca OAF : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca RENAULT : 34 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca RENAULT VI : 14 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca ROCAR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca ROMAN : 36 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca SCANIA : 8 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca VOLVO : 27 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca ARO : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca CITROEN : 11 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca DACIA : 46 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca FORD : 26 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MITSUBISHI : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca NISSAN : 25 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca PEUGEOT : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca AB : 33 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca AUTOMECANICA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca ASTRA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca JELEZ : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca GAZ : 5 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca DAF : 34 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca IVECO MAGIRUS : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MULTICAR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca SR : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MAGIRUS : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca CHRYSLER : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca DAEWOO : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca JEEP : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MERCEDES -BENZ : 2 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MERCEDES- BENZ : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca OPEL : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca SKODA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca SSANGYONG : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca HANOMAG : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca IVECO-FIAT : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MERCEDES - BENZ : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MITSUBISHI FUSO : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca AVIA : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca IVECO-FORD : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca VOLKSWAGEN-MAN : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca DACIA-OKURA : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca UNIMOG : 29 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca GROVE : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca LIEBHERR : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca BURSTNER : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca OIL&STEEL : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca MAGIRUS-DEUTZ : 4 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca DEMAG : 3 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca FAUN : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca HOBBY : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca KNAUS : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca BUCHER : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca KIRCHHOFF : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca P&G : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca TAM : 1 
+Vehicul de tip AUTOVEHICUL SPECIAL din judetul ARGES marca ZOOMLION : 1 
+Vehicul de tip MICROBUZ din judetul ARGES marca IVECO : 60 
+Vehicul de tip MICROBUZ din judetul ARGES marca MERCEDES-BENZ : 184 
+Vehicul de tip MICROBUZ din judetul ARGES marca VOLKSWAGEN : 293 
+Vehicul de tip MICROBUZ din judetul ARGES marca FIAT : 77 
+Vehicul de tip MICROBUZ din judetul ARGES marca IRISBUS : 9 
+Vehicul de tip MICROBUZ din judetul ARGES marca MERCEDES BENZ : 268 
+Vehicul de tip MICROBUZ din judetul ARGES marca RENAULT : 24 
+Vehicul de tip MICROBUZ din judetul ARGES marca ROCAR : 15 
+Vehicul de tip MICROBUZ din judetul ARGES marca TEMSA : 1 
+Vehicul de tip MICROBUZ din judetul ARGES marca AUTOBUZUL : 21 
+Vehicul de tip MICROBUZ din judetul ARGES marca CITROEN : 2 
+Vehicul de tip MICROBUZ din judetul ARGES marca FORD : 33 
+Vehicul de tip MICROBUZ din judetul ARGES marca PEUGEOT : 7 
+Vehicul de tip MICROBUZ din judetul ARGES marca DAF : 2 
+Vehicul de tip MICROBUZ din judetul ARGES marca DODGE : 2 
+Vehicul de tip MICROBUZ din judetul ARGES marca HYUNDAI : 1 
+Vehicul de tip MICROBUZ din judetul ARGES marca OPEL : 28 
+Vehicul de tip MICROBUZ din judetul ARGES marca FORD-CIBRO : 4 
+Vehicul de tip MICROBUZ din judetul ARGES marca OPEL - CIBRO : 32 
+Vehicul de tip MOPED din judetul ARGES marca PEUGEOT : 3 
+Vehicul de tip MOPED din judetul ARGES marca PIAGGIO : 2 
+Vehicul de tip MOPED din judetul ARGES marca APRILIA : 1 
+Vehicul de tip MOPED din judetul ARGES marca GILERA : 1 
+Vehicul de tip MOPED din judetul ARGES marca QINGQI : 6 
+Vehicul de tip MOPED din judetul ARGES marca BEIGUANG : 1 
+Vehicul de tip MOPED din judetul ARGES marca QINGQ1 : 1 
+Vehicul de tip MOTOCAR din judetul ARGES marca MURAVEI : 3 
