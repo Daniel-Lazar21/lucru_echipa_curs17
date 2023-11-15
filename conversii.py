@@ -7,18 +7,17 @@ CALE_DIR = "C:/Users/danut/Desktop/pythonProject1/lucru_echipa/"
     # din judetul <JUDET> marca <MARCA>: <TOTALVEHICULE> <TOTAL
     #converteste un fisier json primit ca parametru in fisier csv (pe caz general)
 
- 
+#converteste fisierul din csv in json  
 def csv_to_json(fisier):
-    
     with open(CALE_DIR + fisier,"r") as csv_file:    
-        myreader = list(csv.DictReader(csv_file))
+        lista_dictionare = list(csv.DictReader(csv_file))
            
         with open(CALE_DIR + "conversie_in_json.json","w") as jsonFile:
-            json.dump(myreader,jsonFile,ensure_ascii=False)
-        
-#csv_to_json("masini.csv")
+            json.dump(lista_dictionare,jsonFile,ensure_ascii=False)
+            
+#converteste un fisier json primit ca parametru in fisier csv (pe caz general)        
 def json_to_csv(fisier):
-    with open(CALE_DIR + fisier) as jsonFile:
+    with open(CALE_DIR + fisier,'r') as jsonFile:
         jsondata = json.load(jsonFile)
         with open(CALE_DIR + 'conversie_json_in_csv.csv', 'w',newline="") as csvFile:
             csv_writer = csv.writer(csvFile)
@@ -29,32 +28,31 @@ def json_to_csv(fisier):
                     csv_writer.writerow(header)
                     count += 1
                 csv_writer.writerow(dictionar.values())
-    
-def conversie_in_txt(fisier):
+                
+#converteste fisierul in fisier text unde fiecare linie este de tipul "Vehicul de tip <CATEGORIE_NATIONALA> 
+# din judetul <JUDET> marca <MARCA>: <TOTALVEHICULE> <TOTAL    
+def afisare_txt(fisier):
     with open(CALE_DIR + fisier,"r") as csvFile:
         df = pd.read_csv(csvFile)
-        print(df.query("index == 2"))
-        lista_judete = [ ]
-        for judet in df["JUDET"]:
-            if judet not in lista_judete:
-                lista_categ_nat = [ ]
-                for categ_nat in df["CATEGORIE_NATIONALA"]:
-                    if categ_nat not in  lista_categ_nat:
-                        lista_marci = [ ]
-                        for marca in df["MARCA"]:
-                            if marca not in lista_marci:
-                                selectie = df.query("JUDET == @judet and CATEGORIE_NATIONALA == @categ_nat and MARCA == @marca")
 
-                                total_vehicule = selectie["TOTAL_VEHICULE"].sum()
-                                if total_vehicule != 0:
-                                #print(selectie)
-                                    element = f"Vehicul de tip {categ_nat} din judetul {judet} marca {marca} : {total_vehicule} \n"
-                                    with open(CALE_DIR+"conversie_in_text.txt","a") as convertText:
-                                        convertText.write(element)
-                                #total_vehicule = selectie["TOTAL_VEHICULE"].sum()
-                            lista_marci.append(marca)
-                    lista_categ_nat.append(categ_nat)
-            lista_judete.append(judet)
+        while df["JUDET"].empty == False:
+            judet = list(df["JUDET"])[0]
+            selectie_judet = df.query("JUDET == @judet")
+                
+            while selectie_judet["CATEGORIE_NATIONALA"].empty == False:
+                categ_nat = list(selectie_judet["CATEGORIE_NATIONALA"])[0]        
+                selectie_categ_nat = selectie_judet.query("CATEGORIE_NATIONALA == @categ_nat")
+                
+                while selectie_categ_nat["MARCA"].empty == False:
+                    marca = list(selectie_categ_nat["MARCA"])[0]                 
+                    selectie_marca = selectie_categ_nat.query("MARCA == @marca")
+                    total_vehicule = selectie_marca["TOTAL_VEHICULE"].sum()            
+                    element = f"Vehicul de tip {categ_nat} din judetul {judet} marca {marca} : {total_vehicule} \n"
+                
+                    with open(CALE_DIR+"conversie_in_text.txt","a") as convertText:
+                        convertText.write(element)             
+                    selectie_categ_nat = selectie_categ_nat.query("MARCA != @marca")         
+                selectie_judet = selectie_judet.query("CATEGORIE_NATIONALA != @categ_nat")
+            df = df.query("JUDET != @judet")   
                 
 
-conversie_in_txt("masini.csv")  
