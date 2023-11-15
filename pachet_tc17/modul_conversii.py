@@ -1,7 +1,6 @@
 import csv
 import json
 import pandas as pd
-CALE_DIR = "C:/Users/danut/Desktop/pythonProject1/lucru_echipa/"
 #conversii 
     #converteste fisierul din csv in json 
 def csv_to_json(cale_csv):
