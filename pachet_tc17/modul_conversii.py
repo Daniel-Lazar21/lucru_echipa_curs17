@@ -32,8 +32,8 @@ def json_to_csv(cale_json):
 #corecta din mai multe motive cum ar fi repetitia unor linii!!!
 #converteste fisierul in fisier text unde fiecare linie este de tipul "Vehicul de tip <CATEGORIE_NATIONALA> 
 # din judetul <JUDET> marca <MARCA>: <TOTALVEHICULE> <TOTAL    
-def afisare_txt(fisier):
-    with open(CALE_DIR + fisier,"r") as csvFile:
+def afisare_txt(cale,fisier):
+    with open(cale + fisier,"r") as csvFile:
         df = pd.read_csv(csvFile)
 
         while df["JUDET"].empty == False:
@@ -50,7 +50,7 @@ def afisare_txt(fisier):
                     total_vehicule = selectie_marca["TOTAL_VEHICULE"].sum()            
                     element = f"Vehicul de tip {categ_nat} din judetul {judet} marca {marca} : {total_vehicule} \n"
                 
-                    with open(CALE_DIR+"afisare_text.txt","a") as convertText:
+                    with open(cale+"afisare_text.txt","a") as convertText:
                         convertText.write(element)             
                     selectie_categ_nat = selectie_categ_nat.query("MARCA != @marca")         
                 selectie_judet = selectie_judet.query("CATEGORIE_NATIONALA != @categ_nat")
@@ -58,10 +58,10 @@ def afisare_txt(fisier):
             
 #converteste un fisier json primit ca parametru in fisier csv (pe caz general) 
 #!!!Am adaugat aceasta functie pt ca functia json_to_csv dadea o eroare si nu putea fi folosita!!!    
-def json_to_csv_v2(fisier):
-    with open(CALE_DIR + fisier,'r') as jsonFile:
+def json_to_csv_v2(cale,fisier):
+    with open(cale + fisier,'r') as jsonFile:
         jsondata = json.load(jsonFile)
-        with open(CALE_DIR + 'conversie_json_in_csv.csv', 'w',newline="") as csvFile:
+        with open(cale + 'conversie_json_in_csv.csv', 'w',newline="") as csvFile:
             csv_writer = csv.writer(csvFile)
             count = 0
             for dictionar in jsondata:
