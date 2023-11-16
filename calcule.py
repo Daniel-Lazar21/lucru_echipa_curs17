@@ -20,4 +20,16 @@ def nrTotalMasini():
         count+=1
     print(nr_Total_Masini)
 
-nrTotalMasini()
+# nrTotalMasini()
+
+def nrTotalMasiniPeJudet(judet):
+    csvFile=read_csv("masini.csv")
+    count=0
+    nr_Total_Masini=0
+    for line in csvFile:
+        if count!=0 and line[1]==judet:
+            nr_Total_Masini = nr_Total_Masini + int(line[7])
+        count+=1
+    print(nr_Total_Masini)
+
+nrTotalMasiniPeJudet("ALBA")
